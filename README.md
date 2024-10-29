@@ -17,7 +17,7 @@ The breast cancer classification project utilizes four different Convolutional N
 1. **Model Selection**: Each model is initialized using pre-trained weights from ImageNet, excluding the top layers to adapt them for our specific classification task of identifying benign and malignant images.
 2. **Freezing Layers**: All layers of the base model are set to non-trainable, leveraging the pre-trained weights to prevent overfitting during training.
 3. **Custom Layers**: The architecture is extended with custom layers, including a flattening layer, a dense layer with ReLU activation, a dropout layer for regularization, and a final dense layer with a softmax activation function to output probabilities for the two classes (benign and malignant).
-4. **Compilation**: Each model is compiled using the *Adam* optimizer and *sparse categorical cross-entropy* loss function, with *accuracy* as the evaluation metric.
+4. **Compilation**: Each model is compiled using the **Adam** optimizer and **sparse categorical cross-entropy** loss function, with **accuracy** as the evaluation metric.
 
 This architecture allows for effective feature extraction and classification, leveraging transfer learning from powerful pre-trained models.
 
