@@ -2,7 +2,9 @@
 This project presents a comparative analysis of different deep learning models for classifying breast cancer MRI images into two categories: benign and malignant. The models evaluated in this analysis include **DenseNet**, **VGG16**, **InceptionV3**, and **MobileNetV2**. The primary goal is to improve the accuracy of breast cancer diagnosis using a deep learning approach with Convolutional Neural Networks (CNNs).
 
 # Dataset Description
-The dataset used for this breast cancer classification project is the Breast Cancer Dataset available on Kaggle, contributed by Anas Elmasry. This dataset contains a collection of histopathological images that are crucial for the diagnosis of breast cancer. It includes various samples labeled as either benign or malignant, providing a solid foundation for training and evaluating machine learning models.
+The dataset used for this breast cancer classification project is the Breast Cancer Dataset available on Kaggle, contributed by *Anas Elmasry*. This dataset contains a collection of histopathological images that are crucial for the diagnosis of breast cancer. It includes various samples labeled as either benign or malignant, providing a solid foundation for training and evaluating machine learning models.
+
+**Dataset Link** :  https://www.kaggle.com/datasets/anaselmasry/breast-cancer-dataset/d
 ## Dataset Sample Images
 ![ccca43c2-0104-4297-80bf-444b9aa33a7e](https://github.com/user-attachments/assets/4f48df59-07ec-41fd-b99f-933e4a7cab25)
 
