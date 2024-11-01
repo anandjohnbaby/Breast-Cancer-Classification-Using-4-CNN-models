@@ -34,8 +34,26 @@ The **DenseNet** model demonstrated impressive performance on the test dataset, 
 
 ## Dataset Licensing
 
-The dataset used in this project, [Breast Cancer Dataset](https://www.kaggle.com/datasets/anaselmasry/breast-cancer-dataset), is copyrighted by the original authors and is subject to their usage terms. This repository's MIT License applies **only to the code** and does not cover the dataset. Please refer to the dataset’s page on Kaggle for more information on its permitted uses.
+The dataset used in this project, Breast Cancer Dataset, is copyrighted by the original authors and is subject to their usage terms. This repository's MIT License applies **only to the code** and does not cover the dataset. Please refer to the dataset’s page on Kaggle for more information on its permitted uses.
 
+## Model Architecture Citations
+
+This project uses four pre-trained deep learning architectures for breast cancer classification:
+
+1. **DenseNet**: Known for its dense connections between layers, DenseNet improves gradient flow and reduces the number of parameters.
+   - **Citation**: Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). Densely Connected Convolutional Networks. *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2017, 4700-4708. [Paper](https://arxiv.org/abs/1608.06993)
+
+2. **VGG16**: Developed by the Visual Geometry Group, VGG16 is known for its simplicity and uniform structure of convolutional layers, making it effective for many image classification tasks.
+   - **Citation**: Simonyan, K., & Zisserman, A. (2014). Very Deep Convolutional Networks for Large-Scale Image Recognition. *arXiv preprint arXiv:1409.1556*. [Paper](https://arxiv.org/abs/1409.1556)
+
+3. **MobileNetV2**: A lightweight model optimized for mobile and edge devices, with inverted residuals and linear bottlenecks.
+   - **Citation**: Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L. C. (2018). MobileNetV2: Inverted Residuals and Linear Bottlenecks. *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018, 4510-4520. [Paper](https://arxiv.org/abs/1801.04381)
+
+4. **ResNet50**: The ResNet architecture introduced residual connections to enable training of very deep networks, addressing vanishing gradient issues.
+   - **Citation**: He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016, 770-778. [Paper](https://arxiv.org/abs/1512.03385)
+
+These architectures were selected for their proven effectiveness in image classification tasks and are used to compare their performance in breast cancer diagnosis.
 
 ## Contact
-Email : anandjohnbabyv4@gmail.com
+
+- **Email**: anandjohnbabyv4@gmail.com
