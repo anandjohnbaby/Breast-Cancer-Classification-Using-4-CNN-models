@@ -69,4 +69,4 @@ This repository is licensed under the MIT License, which applies only to the cod
 
 ## Contact
 
-- **Email**: anandjohnbabyv4@gmail.com
+**Email**: anandjohnbabyv4@gmail.com
