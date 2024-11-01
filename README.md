@@ -33,7 +33,9 @@ The **DenseNet** model demonstrated impressive performance on the test dataset, 
 ![1382bc19-9c98-4756-a40e-755fd3fb8797](https://github.com/user-attachments/assets/730a2558-e1c5-4274-a8f0-99a77f84ed67)
 
 ## Dataset Licensing
-The dataset used in this project, [Breast Cancer Dataset](https://www.kaggle.com/datasets/anaselmasry/breast-cancer-dataset), is subject to its own license provided on Kaggle and is not covered by the MIT License of this repository. Please refer to the dataset’s page on Kaggle for licensing details and permissible uses.
+
+The dataset used in this project, [Breast Cancer Dataset](https://www.kaggle.com/datasets/anaselmasry/breast-cancer-dataset), is copyrighted by the original authors and is subject to their usage terms. This repository's MIT License applies **only to the code** and does not cover the dataset. Please refer to the dataset’s page on Kaggle for more information on its permitted uses.
+
 
 ## Contact
 Email : anandjohnbabyv4@gmail.com
